@@ -17,7 +17,7 @@ This project **re‑implements core parts of the Windows PE loader** – the com
 This is **not a beginner project**. It shows that I can read Microsoft documentation, debug complex structures, and build a working loader from scratch.
 
 ![demonstration](https://s4.ezgif.com/tmp/ezgif-4a5339b7da97dff4.gif)
-..Or Video this Link (if the GIF won't load)
+..Or this Link (if the GIF won't load)
 [▶ Watch Demo](./2026-04-03%2017-00-55.mp4)
 ---
 
